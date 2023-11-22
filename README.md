@@ -1,7 +1,5 @@
 ## Hi there! 👋 I'm Dhruv Neb
 
-![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Femeritus.org%2Fin%2Flearn%2Fwhat-coding-language-should-i-learn%2F&psig=AOvVaw2ezrz3O8yzAiqIOvBm88TZ&ust=1700770894390000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiUmLi32IIDFQAAAAAdAAAAABAE)
-
 👩‍💻 Undergraduate in Technology at BITS Pilani Dubai, I'm enthusiastic about UX/UI design, Machine Learning, AI, and crafting imaginative web experiences. Let's collaborate and build something amazing together! 😊
 
 ## About Me
