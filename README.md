@@ -3,7 +3,7 @@
 <head>
   <style>
     body {
-      background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Femeritus.org%2Fin%2Flearn%2Fwhat-coding-language-should-i-learn%2F&psig=AOvVaw2ezrz3O8yzAiqIOvBm88TZ&ust=1700770894390000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiUmLi32IIDFQAAAAAdAAAAABAE');
+      background-image: url('https://www.your-image-hosting-service.com/your-image.jpg');
       /* If you want a background color as a fallback */
       background-color: #f0f0f0;
       /* Adjust background properties as needed */
