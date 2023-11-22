@@ -1,46 +1,46 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Dhruv Neb
 
 ![Profile Banner](link_to_banner_image)
 
-I'm passionate about [mention your interests, e.g., coding, design, machine learning] and enjoy [hobbies, e.g., hiking, photography, reading].
+👩‍💻 Undergraduate in Technology at BITS Pilani Dubai, I'm enthusiastic about UX/UI design, Machine Learning, AI, and crafting imaginative web experiences. Let's collaborate and build something amazing together! 😊
 
 ## About Me
 
-Describe yourself briefly here. Talk about your professional background, skills, and what motivates you. Mention any noteworthy achievements or projects you're proud of.
+💡 Constantly exploring the intersection of technology and creativity, I'm driven by a passion for creating user-centric solutions that blend innovation with elegant design.
 
 ## Skills
 
-- List your skills, technologies, and tools you're proficient in. For example:
-  - Programming Languages: Python, JavaScript, Java
-  - Frameworks: React, Flask, Node.js
-  - Design: Adobe Photoshop, Figma
+- **UX/UI Design**: Adobe XD, Figma
+- **Machine Learning**: TensorFlow, Scikit-learn
+- **Web Development**: HTML, CSS, JavaScript
+- **Frameworks**: React, Flask
 
 ## Portfolio
 
-- Showcase some of your best work with links to repositories, projects, or articles.
-- Embed images or GIFs to highlight your projects. For example:
+🚀 Here are a few projects I'm proud of:
 
 ![Project 1](link_to_project_1_image_or_gif)
 ![Project 2](link_to_project_2_image_or_gif)
 
 ## Find Me Online
 
-- Provide links to your social media profiles, personal website, or portfolio.
-- Connect with me on:
-  - [LinkedIn](your_linkedin_profile)
-  - [Twitter](your_twitter_profile)
-  - [Personal Website](your_website)
+🌐 Connect with me on:
+- [LinkedIn](your_linkedin_profile)
+- [Twitter](your_twitter_profile)
+- [Personal Website](your_website)
 
 ## Contact Me
 
-- Add a way for people to reach out to you:
-  - Email: your@email.com
-  - LinkedIn message
+📧 Feel free to reach out:
+- Email: your@email.com
+- LinkedIn message
 
 ## Fun Facts
 
-- Share interesting or quirky facts about yourself. It could be anything unique or surprising!
+🌟 Fun facts about me:
+- I can solve a Rubik's Cube in under a minute!
+- I love experimenting with new cooking recipes.
 
 ---
 
-Feel free to personalize this README to reflect your personality, experiences, and interests. Have fun showcasing yourself!
+Feel free to customize this README to reflect your personality and experiences. Let it represent you authentically and let's continue building awesome things together! 😊
