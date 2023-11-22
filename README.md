@@ -13,34 +13,26 @@
 - **UX/UI Design**: Adobe XD, Figma
 - **Machine Learning**: TensorFlow, Scikit-learn
 - **Web Development**: HTML, CSS, JavaScript
-- **Frameworks**: React, Flask
+- **Frameworks**: React
 
-## Portfolio
-
-🚀 Here are a few projects I'm proud of:
-
-![Project 1](link_to_project_1_image_or_gif)
-![Project 2](link_to_project_2_image_or_gif)
 
 ## Find Me Online
 
 🌐 Connect with me on:
-- [LinkedIn](your_linkedin_profile)
-- [Twitter](your_twitter_profile)
-- [Personal Website](your_website)
+- [LinkedIn](https://www.linkedin.com/in/dhruv-neb-5b91b8257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWUNeJAY4RS2sSxW1SEOIEA%3D%3D)
 
 ## Contact Me
 
 📧 Feel free to reach out:
-- Email: your@email.com
-- LinkedIn message
+- Email: dhruv.neb8@gmail.com
+- +971503432157
 
 ## Fun Facts
 
 🌟 Fun facts about me:
-- I can solve a Rubik's Cube in under a minute!
-- I love experimenting with new cooking recipes.
+- I am very enthusiastic about Sports 
+- I love experimenting with new Skills.
 
 ---
 
-Feel free to customize this README to reflect your personality and experiences. Let it represent you authentically and let's continue building awesome things together! 😊
+Let's build awesome things together! 😊
