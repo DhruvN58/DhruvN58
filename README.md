@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-image: url('https://www.your-image-hosting-service.com/your-image.jpg');
-      /* If you want a background color as a fallback */
-      background-color: #f0f0f0;
-      /* Adjust background properties as needed */
-      background-size: cover;
-      background-repeat: no-repeat;
-      /* Set text color for better visibility */
-      color: #ffffff; /* Example color */
-    }
-  </style>
-</head>
-<body>
-  
-  # Hi there! 👋 I'm Dhruv Neb
+## Hi there! 👋 I'm Dhruv Neb
 
 ![Profile Banner](link_to_banner_image)
 
