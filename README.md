@@ -37,10 +37,43 @@ Here's a breakdown of my key skills and technologies:
 * ![Solidity Badge](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=black)
 * ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-* **FullStack Development:** <progress value="80" max="100"></progress> (80%)
-* **AI/ML:** <progress value="70" max="100"></progress> (70%)
-* **UX/UI Design:** <progress value="60" max="100"></progress> (60%)
-* **Blockchain:** <progress value="40" max="100"></progress> (40%)
+## Skills Overview
+
+Here's a visual representation of my skill levels:
+
+<div style="display: flex; flex-direction: column; gap: 5px;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <span style="width: 120px; font-weight: bold;">Web Development:</span>
+    <div style="background-color: #f1f1f1; width: 200px; height: 10px; border-radius: 5px;">
+      <div style="background-color: #61DAFB; width: 80%; height: 100%; border-radius: 5px;"></div>
+    </div>
+    <span style="font-size: 0.8em;">(80%)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <span style="width: 120px; font-weight: bold;">AI/ML:</span>
+    <div style="background-color: #f1f1f1; width: 200px; height: 10px; border-radius: 5px;">
+      <div style="background-color: #FF6F00; width: 70%; height: 100%; border-radius: 5px;"></div>
+    </div>
+    <span style="font-size: 0.8em;">(70%)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <span style="width: 120px; font-weight: bold;">UX/UI Design:</span>
+    <div style="background-color: #f1f1f1; width: 200px; height: 10px; border-radius: 5px;">
+      <div style="background-color: #FF61F6; width: 60%; height: 100%; border-radius: 5px;"></div>
+    </div>
+    <span style="font-size: 0.8em;">(60%)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <span style="width: 120px; font-weight: bold;">Blockchain:</span>
+    <div style="background-color: #f1f1f1; width: 200px; height: 10px; border-radius: 5px;">
+      <div style="background-color: #3C3C3D; width: 40%; height: 100%; border-radius: 5px;"></div>
+    </div>
+    <span style="font-size: 0.8em;">(40%)</span>
+  </div>
+</div>
 
 ## Find Me Online
 
