@@ -37,6 +37,10 @@ Here's a breakdown of my key skills and technologies:
 * ![Solidity Badge](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=black)
 * ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
+* **FullStack Development:** <progress value="80" max="100"></progress> (80%)
+* **AI/ML:** <progress value="70" max="100"></progress> (70%)
+* **UX/UI Design:** <progress value="60" max="100"></progress> (60%)
+* **Blockchain:** <progress value="40" max="100"></progress> (40%)
 
 ## Find Me Online
 
