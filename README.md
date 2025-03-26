@@ -33,18 +33,18 @@ Here are some of the technologies I'm proficient in:
 
 ## Work Experience
 
-**DERIV** | Software Frontend Developer | Dubai, United Arab Emirates | Jan 2024 - Present [cite: 2, 3, 4, 5]
+**DERIV** | Software Frontend Developer | Dubai, United Arab Emirates | Jan 2024 - march 2025 
 
-* Collaborated with cross-functional teams to deliver scalable frontend solutions. [cite: 2, 3, 4]
-* Developed and optimized web applications using React.js, JavaScript, TypeScript, and OutSystems. [cite: 3]
-* Designed and implemented API integrations for dynamic data handling. [cite: 3]
-* Gained exposure to full-stack development training. [cite: 4]
-* Briefly led a team to manage deliverables. [cite: 5]
+* Collaborated with cross-functional teams to deliver scalable frontend solutions.
+* Developed and optimized web applications using React.js, JavaScript, TypeScript, and OutSystems. 
+* Designed and implemented API integrations for dynamic data handling.
+* Gained exposure to full-stack development training.
+* Briefly led a team to manage deliverables. 
 
-**NUVAMA WEALTH AND INVESTMENT LIMITED** | Wealth Management Intern | New Delhi, India | Nov 2022 - Jan 2023 [cite: 6, 7]
+**NUVAMA WEALTH AND INVESTMENT LIMITED** | Wealth Management Intern | New Delhi, India | Nov 2022 - Jan 2023 
 
-* Acquired expertise in financial modeling, mutual funds, and portfolio management. [cite: 6]
-* Utilized Power BI for data visualization. [cite: 7]
+* Acquired expertise in financial modeling, mutual funds, and portfolio management. 
+* Utilized Power BI for data visualization. 
 
 **NEW DELHI MUNICIPAL COUNCIL (NDMC)** | Intern | New Delhi, India | Nov 2019 - Dec 2019 [cite: 8, 9]
 
