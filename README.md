@@ -1,72 +1,62 @@
 # Dhruv Neb
 
-A passionate and driven Computer Science graduate from BITS with a strong interest in Web Development, AI, and Blockchain. Currently working as a Software Frontend Developer at DERIV, building scalable frontend solutions.
+👋 Hi there! I'm Dhruv Neb, an enthusiastic Computer Science undergraduate at BITS Pilani Dubai, passionate about crafting innovative web experiences, UX/UI design, and Machine Learning/AI solutions. Let's collaborate and build something amazing together! 😊
+
 
 ## About Me
 
-I'm a highly motivated and skilled developer with experience in front-end development, AI, and blockchain technologies. I'm passionate about creating innovative solutions and enjoy working in collaborative environments.  I'm eager to learn new technologies and contribute to impactful projects.
+💡 I'm driven by a passion for creating user-centric solutions at the intersection of technology and creativity. I enjoy exploring new technologies and building impactful projects.
 
-## Tech Stack
+## Tech Stack & Skills
 
-Here are some of the technologies I'm proficient in:
+Here's a breakdown of my key skills and technologies:
 
 ### Web Development
 
-  * ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  * ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  * ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C2?style=for-the-badge&logo=typescript&logoColor=white)
-  * ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  * ![OutSystems Badge](https://img.shields.io/badge/OutSystems-13AED6?style=for-the-badge&logo=outsystems&logoColor=white)
+* ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+* ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C2?style=for-the-badge&logo=typescript&logoColor=white)
+* ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+* ![OutSystems Badge](https://img.shields.io/badge/OutSystems-13AED6?style=for-the-badge&logo=outsystems&logoColor=white)
 
-### AI
+### AI & Machine Learning
 
-  * ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-  * ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  * ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  * ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  * ![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-F2B931?style=for-the-badge&logo=huggingface&logoColor=black)
+* ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+* ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+* ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+* ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+* ![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-F2B931?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### UX/UI Design
+
+* ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+* ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Blockchain
 
-  * ![Solidity Badge](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=black)
-  * ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+* ![Solidity Badge](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=black)
+* ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-## Work Experience
+## Key Projects
 
-**DERIV** | Software Frontend Developer | Dubai, United Arab Emirates | Jan 2024 - march 2025 
+* **OutSystems Application Migration:** Led the migration of an application to a low-code platform, integrating AI and JavaScript to streamline development and enhance data handling.
+* **Blockchain Electronic Medical Record DApp:** Designed a secure patient data management system using Blockchain and Zero-Trust Architecture, featuring smart contract-based authentication.
+* **AI-Driven Business Intelligence:** Developed an AI model to analyze business documents in multiple formats (PDF, Word, Excel), improving accessibility.
+* **AI-based Figma to Code Generator:** Created a tool using Anthropic's LLM to convert Figma designs into functional code.
+* **AI-Powered Emotion Recognition:** Developed a real-time facial emotion recognition system using OpenCV and TensorFlow with a CNN for emotion classification.
 
-* Collaborated with cross-functional teams to deliver scalable frontend solutions.
-* Developed and optimized web applications using React.js, JavaScript, TypeScript, and OutSystems. 
-* Designed and implemented API integrations for dynamic data handling.
-* Gained exposure to full-stack development training.
-* Briefly led a team to manage deliverables. 
+## Find Me Online
 
-**NUVAMA WEALTH AND INVESTMENT LIMITED** | Wealth Management Intern | New Delhi, India | Nov 2022 - Jan 2023 
+* [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)  (Replace with your actual LinkedIn profile link)
 
-* Acquired expertise in financial modeling, mutual funds, and portfolio management. 
-* Utilized Power BI for data visualization. 
+## Contact Me
 
-**NEW DELHI MUNICIPAL COUNCIL (NDMC)** | Intern | New Delhi, India | Nov 2019 - Dec 2019 [cite: 8, 9]
+* 📧 dhruv.neb8@gmail.com
+* 📞 +971503432157
 
-* Supported the IT department in implementing innovative strategies and operational frameworks for smart city initiatives. [cite: 8]
-* Contributed to the development and maintenance of IT systems. [cite: 9]
+## Fun Facts
 
-## Projects
+* Enthusiastic about Sports 
+* Loves experimenting with new skills
 
-* **OUTSYSTEMS Project:** Led the migration of an application to a low-code platform, using AI and JavaScript. [cite: 10, 11, 12] Designed and implemented API integrations and optimized application performance. [cite: 11, 12]
-* **BLOCKCHAIN ELECTRONIC MEDICAL RECORD DAPP:** Designed a secure patient data management system using Blockchain and Zero-Trust Architecture. [cite: 13, 14] Implemented smart contract-based authentication. [cite: 14]
-* **AI-DRIVEN BUSINESS INTELLIGENCE:** Developed a model for analyzing business documents with multi-format support (PDF, Word, Excel). [cite: 15]
-* **AI-BASED FIGMA TO CODE GENERATOR:** Developed a tool using Anthropic's LLM to transform Figma designs into code. [cite: 15]
-* **AI-POWERED EMOTION RECOGNITION VIA FACIAL ANALYSIS:** Developed a real-time facial emotion recognition system using OpenCV and TensorFlow. [cite: 16, 17] Implemented a CNN for emotion classification. [cite: 17]
-
-## Education
-
-**Birla Institute of Technology and Science (BITS)** | Bachelor of Technology in Computer Science | Dubai, United Arab Emirates | Graduation Date: Sep 2024 [cite: 18]
-
-**St. Columba's School** | Highschool-Computer Science | Dubai, United Arab Emirates | Graduation Date: Jun 2019
-
-## Certificates
-
-* UDEMY: Ethereum and Solidity
-* DEVTOWN: Full Stack Web Development Training Program
-* OUTSYSTEMS: Outsystems Low-Code Training Program
+Let's build awesome things together! 😊
