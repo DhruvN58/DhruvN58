@@ -40,7 +40,7 @@ Here's a breakdown of my key skills and technologies:
 
 ## Find Me Online
 
-* [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/dhruv-neb-5b91b8257/)
+* ![LinkedIn](https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/dhruv-neb-5b91b8257/)
 
 ## Contact Me
 
