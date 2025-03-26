@@ -37,17 +37,10 @@ Here's a breakdown of my key skills and technologies:
 * ![Solidity Badge](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=black)
 * ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-## Key Projects
-
-* **OutSystems Application Migration:** Led the migration of an application to a low-code platform, integrating AI and JavaScript to streamline development and enhance data handling.
-* **Blockchain Electronic Medical Record DApp:** Designed a secure patient data management system using Blockchain and Zero-Trust Architecture, featuring smart contract-based authentication.
-* **AI-Driven Business Intelligence:** Developed an AI model to analyze business documents in multiple formats (PDF, Word, Excel), improving accessibility.
-* **AI-based Figma to Code Generator:** Created a tool using Anthropic's LLM to convert Figma designs into functional code.
-* **AI-Powered Emotion Recognition:** Developed a real-time facial emotion recognition system using OpenCV and TensorFlow with a CNN for emotion classification.
 
 ## Find Me Online
 
-* [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)  (Replace with your actual LinkedIn profile link)
+* [LinkedIn][https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/dhruv-neb-5b91b8257/)
 
 ## Contact Me
 
